@@ -1,3 +1,3 @@
-# final-project
+# cost-track
 
-A full stack JavaScript solo project.
+A React web application for users to track their expenses.
